@@ -1,0 +1,8 @@
+PROPERTY HIERARCHY (PseudoUserHierarchyDepth){
+  Description: Property1.Property2...
+  Key: HKEY_CURRENT_USER\Software\Motive\M-Files\<version>\Common
+  Value name: PseudoUserHierarchyDepth
+  Value type: REG_DWORD
+  Default value: 2
+  }
+
